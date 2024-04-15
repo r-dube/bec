@@ -1,0 +1,8 @@
+*.log
+.DS_Store
+.env
+.ipynb_checkpoints/
+data/BEC-1-label.csv
+data/BEC-1.csv
+data/BEC-2-label.csv
+data/BEC-2.csv
