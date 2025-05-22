@@ -1,0 +1,16 @@
+Dear David,
+
+We deliberated today over the challenges concerning value-at-risk (VaR) coordination, specifically regarding the transformation of the forward pricing curves into our primary business locations. 
+
+This transformation, otherwise known as mapping, is a necessary adjustment. It is driven by our computer system's limitations, which compel us to modify the problem's scale while staying within the confines of our available processing power. Additionally, we also confront scenarios in which the quality of price discovery is subpar, making independent modeling of price curves a formidable task. To mitigate such problems, we merge price curves into the more robust and manageable core-location curves. 
+
+We arrived at the unanimous consensus on the following measures:
+
+1. Winston will delve deeper into the technological side, ascertaining the scope for an increase in the number of forward price curves that can be introduced as core staples. He will gauge the impact of an elevated number of these core curves on the time necessary to execute a VaR operation completely.
+
+2. The top 10-20 positions in each commodity that are closely affiliated with the curves should be molded as core curves. This approach would eschew the requirement for any mapping into alternative locations. Strategically monitoring significant risks separately while evading consolidation into less lucid aggregates is a logical path forward.
+
+3. The outcomes of an automatic clustering or mapping system should be periodically examined by human analysts and rectified should they inaccurately reflect the trading position risks. This duty needs to be vested in a single person, given that current dispersion across the organization often results in lack of accountability. We have the potential to assign a dedicated individual from our research department to this task, on the precondition that both the trading and RAC teams fully cooperate.
+
+Best Regards,
+Vince
