@@ -5,3 +5,4 @@ Documentation on the project and related datasets is available at the following 
 - The Intersection of Large Language Models and Business Email Compromise: What We Know So Far, [Preprint](http://dx.doi.org/10.13140/RG.2.2.27907.72480), [Podcast overview](https://youtu.be/8H9dd7JDSdU)
 - Building a Business Email Compromise Research Dataset with Large Language Models, [Preprint](http://dx.doi.org/10.13140/RG.2.2.32482.95689), [Journal of Computer Virology and Hacking Techniques / JICV](https://www.researchgate.net/publication/387708190), [Podcast overview](https://youtu.be/G5N1jASfYg0)
 - Did You Really Write This? A Lightweight Neural Approach to Email Authorship Validation, [Preprint](http://dx.doi.org/10.13140/RG.2.2.16621.09443)
+- Per-sender neural network classifiers for email authorship validation [Updated Preprint of the previous paper](https://www.researchgate.net/publication/395212322)
